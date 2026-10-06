@@ -1,2 +1,2 @@
 # SimpleJavaFXApp
-JavaFX Lab 1 – My First JavaFX Application
+JavaFX Lab 1 and 2
